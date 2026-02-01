@@ -1,10 +1,10 @@
 <div align="center">
 
 <a href="https://github.com/smdissanayake">
-  <img src="https://github.com/smdissanayake/smdissanayake/blob/main/assets/profile_banner.png?raw=true" alt="SMDissanayake GitHub Banner" width="100%" />
+  <img src="https://github.com/smdissanayake/smdissanayake/blob/main/assets/profile_banner.png?raw=true" alt="Shehan Dissanayake GitHub Banner" width="100%" />
 </a>
 
-<h1>Hi, I'm Sanjeewa Madushan Dissanayake 👋</h1>
+<h1>Hi, I'm Shehan Dissanayake 👋</h1>
 
 <p>
   <b>Software Engineering Undergraduate</b><br/>
@@ -74,12 +74,8 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sanjeewa-madushan-dissanayake-1a2b3c4d/">
+<a href="https://www.linkedin.com/in/smdissanayake/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/YourTwitterHandle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
 </div>
@@ -87,5 +83,5 @@
 ---
 
 <div align="center">
-  <sub>Crafted with ❤️ by Sanjeewa Madushan Dissanayake</sub>
+  <sub>Crafted with ❤️ by <b>Shehan Dissanayake</b></sub>
 </div>
