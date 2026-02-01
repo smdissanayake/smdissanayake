@@ -1,18 +1,18 @@
 <div align="center">
 
 <a href="https://github.com/smdissanayake">
-  <img src="https://github.com/smdissanayake/smdissanayake/blob/main/assets/profile_banner.png?raw=true" alt="Shehan Dissanayake GitHub Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Shehan%20Dissanayake&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 </a>
 
-<h1>Hi, I'm Shehan Dissanayake 👋</h1>
+# 👋 Hi there, I'm Shehan Dissanayake!
+### 🚀 Software Engineering Undergraduate | Full-Stack Developer
 
-<p>
-  <b>Software Engineering Undergraduate</b><br/>
-  Web Development • Data Science • Modern Application Development
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7CC00&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Data+Science+Enthusiast;Modern+Application+Architect;UI%2FUX+Focused+Developer" alt="Typing SVG" />
 
-<p>
-  Passionate about building scalable web applications, intelligent systems, and clean user-centric solutions.
+<p align="center">
+  <a href="https://github.com/smdissanayake">
+    <img src="https://komarev.com/ghpvc/?username=smdissanayake&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+  </a>
 </p>
 
 </div>
@@ -23,45 +23,33 @@
 
 <div align="center">
 
-### 💻 Languages
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+### 💻 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,java,php,react,nodejs,express,flutter&perline=10" />
+</p>
 
-### 🗄️ Databases & Cloud
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+### 🗄️ Databases & Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perline=3" />
+</p>
 
-### ⚙️ Frameworks & Tools
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-
-### 🛠️ Dev Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+### 🛠️ Dev Tools & Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,canva&perline=6" />
+</p>
 
 </div>
 
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=smdissanayake&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=smdissanayake&theme=tokyonight&hide_border=true" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smdissanayake&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=smdissanayake&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smdissanayake&theme=tokyonight&hide_border=true" width="48%" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smdissanayake&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </div>
 
 ---
@@ -73,15 +61,18 @@
 <a href="mailto:sanjeewam123@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/smdissanayake/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+![Shehan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smdissanayake&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Crafted with ❤️ by <b>Shehan Dissanayake</b></sub>
+  <sub>Last updated: 2026-02-01 | Crafted with ❤️ by <b>Shehan Dissanayake</b></sub>
 </div>
